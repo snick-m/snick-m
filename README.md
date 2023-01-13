@@ -13,6 +13,9 @@
    <br>
  - ❤️‍🔥 [Developers Base](https://youtube.com/c/developersbase) is my passion project with a close friend, [Asif Khan](https://github.com/asif10388). <sub>*Hybrid interactive web platform is coming soon 😉*</sub>
 
+<br/>
+
+[![Since 2021](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2021</sup> 
 #
 
 ![Mushfiqur's GitHub stats](https://github-readme-stats.vercel.app/api?username=snick-m&show_icons=true&theme=tokyonight)
