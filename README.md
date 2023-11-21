@@ -2,13 +2,11 @@
 
 ## About Me
  - 🕸️ The Web is my primary focus. I love Backend.
- - 3️⃣ Web3 is my most recent field of interest. Been studying about it for almost a year now!
-   - I already have two projects closely related to Web3. Visit [snick-m repositories](https://github.com/snick-m?tab=repositories) to find them 🤭
-   <br>
+ - 🤖 Robotics is my current field of interest. Been working with it since 2019!
  - 🪴 Currently learning Go.
    <br>
  - 🎉 Quick Fun Fact: I do Product Video animations with various 3D Tools. It's my favorite hobby!
- - 🔗 Reach me on: [Facebook](https://facebook.com/mushfiqrrm), [Instagram](https://instagram.com/mushfiqrrm), [Fiverr](https://fiverr.com/mushfiqurrmahin).
+ - 🔗 Reach me on: [Facebook](https://facebook.com/mushfiqrrm), [Instagram](https://instagram.com/mushfiqrrm), [Behance](https://links.mushfiqr.com/behance).
    - 🕹️ You can also find me on [Roblox](https://www.roblox.com/users/94142423/profile#!/creations). <sub>*Psst! It's super fun to develop games on Roblox. Learnt*</sub> **Lua** <sub>*through this!*</sub>
    <br>
  - ❤️‍🔥 [Developers Base](https://youtube.com/c/developersbase) is my passion project with a close friend, [Asif Khan](https://github.com/asif10388). <sub>*Hybrid interactive web platform is coming soon 😉*</sub>
