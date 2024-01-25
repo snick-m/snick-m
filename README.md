@@ -14,8 +14,9 @@
 <br/>
 
 [![Since 2021](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2021</sup> 
-#
 
+![](https://komarev.com/ghpvc/?username=snick-m&style=flat) <sup>Since 2024</sup> 
+#
 ![Mushfiqur's GitHub stats](https://github-readme-stats.vercel.app/api?username=snick-m&show_icons=true&theme=tokyonight)
 
 <!--
