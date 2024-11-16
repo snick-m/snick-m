@@ -8,7 +8,8 @@
  - 🎉 Quick Fun Fact: I obsess too much over naming my projects perfectly. 😬
  - 🔗 Reach me on: [LinkedIn](https://linkedin.com/in/mushfiqrrm), [Website](https://projects.mushfiqr.com), [Behance](https://links.mushfiqr.com/behance).
    <br>
- - 🏃‍♂️‍➡️ Actively improving the Camera Systems at Toronto MetRobotics - the Mars Rover Design team at Toronto Metropolitan University. 
+ - 🏃‍♂️‍➡️ Actively improving the Camera Systems at Toronto MetRobotics - the Mars Rover Design team at Toronto Metropolitan University.
+ - 📄 Check out my [Resume](https://projects.mushfiqr.com/resume) with a fun twist!
 <br/>
 
 [![Since 2021](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2021</sup> 
