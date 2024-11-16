@@ -1,16 +1,14 @@
 ### 🙋🏻‍♂️ Mushfiqur Rahman here!
 
 ## About Me
- - 🕸️ The Web is my primary focus. I love Backend.
- - 🤖 Robotics is my current field of interest. Been working with it since 2019!
- - 🪴 Currently learning Go.
+ - 🤖 Robotics is my primary focus. I love the contact of software and physics. With it since 2019!
+ - 🕸️ Web Technology is a close 2nd among my interests. Started in 2018.
+ - 🔎 Currently seeking Summer 2025 Internships.
    <br>
- - 🎉 Quick Fun Fact: I do Product Video animations with various 3D Tools. It's my favorite hobby!
- - 🔗 Reach me on: [Facebook](https://facebook.com/mushfiqrrm), [Instagram](https://instagram.com/mushfiqrrm), [Behance](https://links.mushfiqr.com/behance).
-   - 🕹️ You can also find me on [Roblox](https://www.roblox.com/users/94142423/profile#!/creations). <sub>*Psst! It's super fun to develop games on Roblox. Learnt*</sub> **Lua** <sub>*through this!*</sub>
+ - 🎉 Quick Fun Fact: I obsess too much over naming my projects perfectly. 😬
+ - 🔗 Reach me on: [LinkedIn](https://linkedin.com/in/mushfiqrrm), [Website](https://projects.mushfiqr.com), [Behance](https://links.mushfiqr.com/behance).
    <br>
- - ❤️‍🔥 [Developers Base](https://youtube.com/c/developersbase) is my passion project with a close friend, [Asif Khan](https://github.com/asif10388). <sub>*Hybrid interactive web platform is coming soon 😉*</sub>
-
+ - 🏃‍♂️‍➡️ Actively improving the Camera Systems at Toronto MetRobotics - the Mars Rover Design team at Toronto Metropolitan University. 
 <br/>
 
 [![Since 2021](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2021</sup> 
