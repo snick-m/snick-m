@@ -13,7 +13,7 @@
  - 📄 Check out my [Resume](https://projects.mushfiqr.com/Resume) with a fun twist!
 <br/>
 
-[![*Only Coding* Since Jan 2022](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>Since 2021</sup> 
+[![*Only Coding* Since Jan 2022](https://wakatime.com/badge/user/c4933990-64f0-4101-b362-b288582ecb57.svg)](https://wakatime.com/@c4933990-64f0-4101-b362-b288582ecb57) <sup>*Only Coding* Since Jan 2022</sup> 
 
 ![](https://komarev.com/ghpvc/?username=snick-m&style=flat) <sup>Since 2024</sup> 
 #
