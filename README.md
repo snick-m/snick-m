@@ -4,12 +4,11 @@
 ## About Me
  - 🤖 Robotics is my primary focus. I love the contact of software and physics. With it since 2019!
  - 🕸️ Web Technology is a close 2nd among my interests. Started in 2018.
- - 🔎 Currently seeking Summer 2025 Internships.
    <br>
- - 🎉 Quick Fun Fact: I obsess too much over naming my projects perfectly. 😬
+ - 🎉 Fun Fact: I obsess too much over naming my projects perfectly. 😬
  - 🔗 Reach me on: [LinkedIn](https://linkedin.com/in/mushfiqrrm), [Website](https://projects.mushfiqr.com), [Behance](https://links.mushfiqr.com/behance).
    <br>
- - 🏃‍♂️‍➡️ Actively improving the Camera Systems at Toronto MetRobotics - the Mars Rover Design team at Toronto Metropolitan University.
+ - 🏃‍♂️‍➡️ Actively advising on Software at Toronto MetRobotics - the Mars Rover Design team at Toronto Metropolitan University.
  - 📄 Check out my [Resume](https://projects.mushfiqr.com/Resume) with a fun twist!
 <br/>
 
