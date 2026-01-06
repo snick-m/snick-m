@@ -1,5 +1,5 @@
 ### 🙋🏻‍♂️ Mushfiqur Rahman here!
-###### Graduating B.Sc. in Computer Science from *Toronto Metropolitan University (Ryerson)* in December 2025
+###### Graduated B.Sc. in Computer Science from *Toronto Metropolitan University (Ryerson)* in December 2025
 
 ## About Me
  - 🤖 Robotics is my primary focus. I love the contact of software and physics. With it since 2019!
